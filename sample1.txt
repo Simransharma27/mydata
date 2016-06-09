@@ -1,2 +1,6 @@
-sample 1 file
+
 same text written
+
+text updated this line added
+
+this line also added
